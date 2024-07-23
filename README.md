@@ -23,27 +23,37 @@ The dataset for this project is collected from Swapnjeet S (YouTuber: Data Tutor
 **Tools Used**
 
 Power BI: For data visualization and analysis.
-GitHub: For version control and project management.
-Key Insights
 
-**Key Performance Indicators (KPIs)**
+GitHub: For version control and project management.
+
+**Key Insights**
+
+Key Performance Indicators (KPIs)
 
 Total Sales: $1.20M
+
 Average Sales per Item: $141
+
 Number of Items Sold: 8,523
+
 Average Ratings: 3.9
-Detailed Insights
+
+**Detailed Insights**
 
 1. Sales by Fat Content:
 
 Low Fat: $776.32K
+
 Regular: $425.36K
 
 2. Sales by Outlet Types:
 
 Supermarket Type1: $787.55K (5,577 items, Avg. Rating 3.92)
+
 Grocery Store: $151.94K (1,083 items, Avg. Rating 3.93)
+
 Supermarket Type2: $131.48K (928 items, Avg. Rating 3.93)
+
 Supermarket Type3: $130.71K (935 items, Avg. Rating 3.91)
 
 3. Sales by Item Type:
@@ -57,13 +67,17 @@ Consistent increase in sales for outlets established from 2018 to 2022.
 5. Sales by Outlet Size:
 
 Medium-sized Outlets: $507.90K
+
 Small Outlets: $444.79K
+
 Large Outlets: $248.99K
 
 6. Sales by Outlet Location:
 
 Tier 3 Locations: $472.13K
+
 Tier 1 Locations: $336.40K
+
 Tier 2 Locations: $393.15K
 
 **Conclusion**
